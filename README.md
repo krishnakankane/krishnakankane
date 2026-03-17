@@ -13,14 +13,16 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/krishna-kankane-70b702388">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="www.linkedin.com/in/krishna-kankane-70b702388" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin" height="40" width="40" />
   </a>
-  <a href="https://www.instagram.com/krishnakankane?igsh=Ym81MnB6eW43NWJx">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/krishnakankane?igsh=Ym81MnB6eW43NWJx" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram" height="40" width="40" />
   </a>
-  <a href="https://leetcode.com/u/krishnakankane/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/krishnakankane/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" height="40" width="40" />
   </a>
 </p>
 
