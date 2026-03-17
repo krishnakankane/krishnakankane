@@ -13,7 +13,7 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="linkedin.com/in/krishna-kankane-70b702388">
+  <a href="https://www.linkedin.com/in/krishna-kankane-70b702388">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
